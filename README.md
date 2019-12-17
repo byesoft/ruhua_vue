@@ -6,23 +6,22 @@
 微信小程序端，微信公众号端，APP端。
 匆匆上线，还有很多不完善，疯狂迭代中...
 
-#### 软件架构
-QQ群：728615087
+##### 官网： http://www.ruhuashop.com
+##### QQ群： 728615087
 
 
-#### 安装与使用教程
-安装包约12MB，由于包含thinkphp核心包与后台CMS文件，所以较大。
-1.  访问：域名/install 进行一键安装
-2.  访问：域名/cms 直接进入后台
-3.  访问：域名/h5 进入前端（未打包，自行下载：https://github.com/baok1592/ruhua_vue）
+#### 安装与使用教程 
+1.  前端商城：uniapp运行
+2.  后台cms安装：npm install 
+3.  后台cms运行：npm run serve
 
 #### 扫码演示
 ![image](https://github.com/baok1592/ruhua/raw/master/xcx.jpg)
 ![image](https://github.com/baok1592/ruhua/raw/master/h5.png)
 
-#### 后台演示
-http://api.demo.ruhuashop.com/cms/	账号：admin	密码123456
-
+#### 后台
+演示: http://api.demo.ruhuashop.com/cms/	账号：admin	密码123456
+仓库：https://github.com/baok1592/ruhua
 
 #### 开源版使用须知
 1.  允许用于个人学习、毕业设计、教学案例、公益事业
